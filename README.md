@@ -1,8 +1,22 @@
-### Olá! eu sou o Xavier Moisés Alberto José👋
+###🚀 Programador | Desenvolvedor Freelancer | Aluno da 42 Lunda | Produtor | Designer | Otaku | Amante da Astronomia 🌌
 
-- 🔭 SEJA BEM-VINDO OU MEU REPOSITÓRIO ...
-- 👯 Destinado a vida Tecnologica...
-- ✉️ E-MAIL: xmaj2001@gmail.com
+Olá, eu sou Xavier, um apaixonado por tecnologia e criatividade. Atuo como programador e desenvolvedor freelancer, dedicando-me a criar soluções inovadoras e funcionais. Atualmente, estou aprimorando minhas habilidades como aluno da 42 Lunda, mergulhando em desafios e projetos que expandem meu conhecimento em programação.
+
+Além da minha paixão pela codificação, tenho uma veia criativa como produtor e designer, explorando o mundo visual e sonoro para criar experiências envolventes. Como verdadeiro otaku, encontro inspiração nas narrativas cativantes e na estética única da cultura japonesa.
+
+Minha jornada não se limita apenas ao código e à criatividade, mas se estende até os confins do cosmos. Sou um entusiasta da astronomia, fascinado pela vastidão do universo e pela beleza das estrelas.
+
+Vamos construir algo incrível juntos e explorar as fronteiras infinitas do conhecimento!
+
+#🌟 Principais Áreas de Interesse:
+
+- Desenvolvimento de Software
+- Design Criativo
+- Produção Audiovisual
+- Cultura Otaku
+- Astronomia
+
+#📫 Como me encontrar:
 
 <picture>
   <source
