@@ -1,4 +1,4 @@
-###🚀 Programador | Desenvolvedor Freelancer | Aluno da 42 Lunda | Produtor | Designer | Otaku | Amante da Astronomia 🌌
+### 🚀 Programador | Desenvolvedor Freelancer | Aluno da 42 Lunda | Produtor | Designer | Otaku | Amante da Astronomia 🌌
 
 Olá, eu sou Xavier, um apaixonado por tecnologia e criatividade. Atuo como programador e desenvolvedor freelancer, dedicando-me a criar soluções inovadoras e funcionais. Atualmente, estou aprimorando minhas habilidades como aluno da 42 Lunda, mergulhando em desafios e projetos que expandem meu conhecimento em programação.
 
@@ -8,7 +8,7 @@ Minha jornada não se limita apenas ao código e à criatividade, mas se estende
 
 Vamos construir algo incrível juntos e explorar as fronteiras infinitas do conhecimento!
 
-#🌟 Principais Áreas de Interesse:
+# 🌟 Principais Áreas de Interesse:
 
 - Desenvolvimento de Software
 - Design Criativo
@@ -16,7 +16,7 @@ Vamos construir algo incrível juntos e explorar as fronteiras infinitas do conh
 - Cultura Otaku
 - Astronomia
 
-#📫 Como me encontrar:
+# 📫 Como me encontrar:
 
 <picture>
   <source
