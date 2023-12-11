@@ -74,7 +74,8 @@
 <a href="https://www.tiktok.com/@xmaj_2001" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"  target="_blank"></a> 
 </div>
 &nbsp;&nbsp;
-
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E783&height=120&section=footer"/>
+<div  align="left" style="margin-bottom:10px">
+   <img width=55% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmaj2001&theme=blue-green" />
+</div>
 
 
