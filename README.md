@@ -11,9 +11,6 @@
 <div  align="center" style="margin-bottom:10px">
    <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=xmaj2001&theme=dark&mode=weekly" />
 </div>
-<div  align="center" style="margin-bottom:10px">
-   <img width=55% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmaj2001&theme=blue-green" />
-</div>
 
  &nbsp;
 
