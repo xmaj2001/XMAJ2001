@@ -2,15 +2,18 @@
 <img align="center" style="margin-bottom:5px" width=100% src="header.jpg" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Atuo como programador e desenvolvedor<strong> freelancer</strong><br>Dedicando-me a criar soluções inovadoras e funcionais.<br>
- Atualmente, estou aprimorando minhas habilidades como aluno da <strong>42 Lunda</strong>, mergulhando em desafios e projetos que expandem meu conhecimento em programação.</p>
+<p align="center">Atuo como programador e desenvolvedor
+  <strong> freelancer</strong><br>Dedicando-me a criar soluções inovadoras e funcionais.<br>
+  Atualmente, estou aprimorando minhas habilidades como aluno da <strong>42 Lunda</strong>
+ , mergulhando em desafios e projetos que expandem meu conhecimento em programação.
+</p>
 
 <div  align="center" style="margin-bottom:10px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=xmaj2001&theme=dark&mode=weekly" />
+   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=xmaj2001&theme=dark&mode=weekly" />
 </div>
 <div  align="center" style="margin-bottom:10px">
-<img width=55% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmaj2001&theme=blue-green" />
- </div>
+   <img width=55% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmaj2001&theme=blue-green" />
+</div>
 
  &nbsp;
 
@@ -44,6 +47,7 @@
 ![Mysql](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)&nbsp;
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![SQL SERVER](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
+
 #### Studying in this moment:
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -58,6 +62,7 @@
 ![Sublime_text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 
 #### SO
+
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
@@ -67,12 +72,12 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/xmaj_2001" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+<a href="https://www.instagram.com/xmaj_2001" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:contato.xmaj2001@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.tiktok.com/@xmaj_2001" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
- 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E783&height=120&section=footer"/>
+</div>
+&nbsp;&nbsp;
+
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E783&height=120&section=footer"/>
 
 
