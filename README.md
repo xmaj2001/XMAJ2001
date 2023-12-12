@@ -4,7 +4,7 @@
 
 <p align="center">Atuo como programador e desenvolvedor
   <strong> freelancer</strong><br>Dedicando-me a criar soluções inovadoras e funcionais.<br>
-  Atualmente, estou aprimorando minhas habilidades como aluno da <strong>42 Lunda</strong>
+  Atualmente, estou aprimorando minhas habilidades como aluno da <strong>42 Luanda</strong>
  , mergulhando em desafios e projetos que expandem meu conhecimento em programação.
 </p>
 
