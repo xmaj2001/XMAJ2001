@@ -11,7 +11,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/xmaj2001/42-common-core">
-    <img src="42/banners/profile/github_profile_banner_round_common_core_v1.png" width="265"/>
+    <img src="42/banners/profile/creloaded.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://github.com/xmaj2001/42-common-core">
@@ -39,6 +39,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,css,git,github,bash,linux,vscode,figma,ps,markdown,mysql,php,nodejs,vuejs,unity,electron" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,css,git,github,bash,linux,vscode,figma,ps,markdown,mysql,php,nodejs,vuejs,electron,react,unity,unrealengine,laravel" />
   </a>
 </p>
