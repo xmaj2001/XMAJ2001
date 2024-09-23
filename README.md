@@ -47,6 +47,6 @@
 
 <div align="center">
 
-  | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=xmaj2001i&show_icons=true&locale=en&layout=compact&theme=dracula) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xmaj2001&show_icons=true&locale=en&theme=dracula) |
+  | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=xmaj2001&show_icons=true&locale=en&layout=compact&theme=dracula) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xmaj2001&show_icons=true&locale=en&theme=dracula) |
   | --- | --- |
 </div>
