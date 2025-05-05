@@ -29,7 +29,7 @@
 
 ## Sobre me
 
-- Sou `Developer` (`BackEnd` && `FrontEnd`) como também `Designer UI`
+- Sou `Developer` (`BackEnd` & `FrontEnd`) como também `Designer UI`
 - Apaixonado por `Astronomínha`, `Programação` e `Jogos`.
 - Atuo como programador e desenvolvedor `freelancer`.
 - Dedicando-me a criar soluções inovadoras e funcionais.
