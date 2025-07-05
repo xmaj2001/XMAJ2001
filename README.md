@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,css,git,github,bash,linux,vscode,figma,ps,markdown,mysql,php,nodejs,electron,react,unity,unrealengine,bootstrap,tailwind,vite,prisma,sqlite" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,css,git,github,bash,linux,vscode,figma,ps,markdown,mysql,php,nodejs,electron,react,unity,unrealengine,bootstrap,tailwind,vite,prisma,sqlite,supabase" />
   </a>
 </p>
 
